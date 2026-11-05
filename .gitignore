@@ -1,0 +1,11 @@
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de configuración
+.idea/
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
