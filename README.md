@@ -10,6 +10,10 @@ y GitHub como práctica de control de versiones.
 
 ## Tabla de contenidos
 
+## Contribuciones
+
+Las contribuciones se realizan mediante ramas y *pull requests* desde `main`.
+
 ### Introducción
 - [¿Qué es el desarrollo web?](introduccion/que-es-desarrollo-web.md)
 - [Historia](introduccion/historia.md)
@@ -24,3 +28,4 @@ y GitHub como práctica de control de versiones.
 ## Licencia
 
 Proyecto con fines educativos.
+
