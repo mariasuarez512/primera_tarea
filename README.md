@@ -19,11 +19,24 @@ Las contribuciones se realizan mediante ramas y *pull requests* desde `main`.
 - [Historia](introduccion/historia.md)
 - [Tecnologías actuales](introduccion/tecnologias-actuales.md)
 
+HEAD
 ### Frontend
 - [HTML básico](frontend/html-basico.md)
 - [CSS avanzado](frontend/css-avanzado.md)
 - [JavaScript moderno](frontend/javascript-moderno.md)
 - [Frameworks](frontend/frameworks.md)
+
+## Contribuciones
+
+Para contribuir al proyecto, abre un *issue* y espera la revisión del autor.
+
+ rama-backend
+
+### Backend
+- [Servidores](backend/servidores.md)
+- [Bases de datos](backend/bases-de-datos.md)
+- [APIs REST](backend/apis-rest.md)
+- [Seguridad](backend/seguridad.md)
 
 ## Licencia
 
