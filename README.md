@@ -38,6 +38,15 @@ Para contribuir al proyecto, abre un *issue* y espera la revisión del autor.
 - [APIs REST](backend/apis-rest.md)
 - [Seguridad](backend/seguridad.md)
 
+## Capturas
+
+![Clonado del repositorio](imagenes/01-imagen-git.png)
+![Segunda imagen](imagenes/02-imagen-git.png)
+![Tercera imagen](imagenes/03-imagen-git.png)
+
+### Recursos
+- [Glosario](recursos/glosario.md)
+
 ## Licencia
 
 Proyecto con fines educativos.
