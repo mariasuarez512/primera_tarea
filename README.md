@@ -5,6 +5,10 @@
 - [Historia](introduccion/historia.md)
 - [Tecnologías actuales](introduccion/tecnologias-actuales.md)
 
+## Contribuciones
+
+Para contribuir al proyecto, abre un *issue* y espera la revisión del autor.
+
 
 ## Licencia
 
