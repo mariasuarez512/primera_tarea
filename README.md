@@ -1,3 +1,13 @@
+# Guía Completa de Desarrollo Web
+
+Este proyecto es una guía de documentación técnica sobre desarrollo web.
+Cubre desde los fundamentos y la historia hasta las tecnologías de frontend
+y backend. Está organizada en documentos Markdown y se gestiona con Git
+y GitHub como práctica de control de versiones.
+
+**Autor:** María Suárez
+**Fecha:** 08/11/2026
+
 ## Tabla de contenidos
 
 ### Introducción
@@ -5,13 +15,12 @@
 - [Historia](introduccion/historia.md)
 - [Tecnologías actuales](introduccion/tecnologias-actuales.md)
 
-
-## Licencia
-
-Proyecto con fines educativos.
-
 ### Frontend
 - [HTML básico](frontend/html-basico.md)
 - [CSS avanzado](frontend/css-avanzado.md)
 - [JavaScript moderno](frontend/javascript-moderno.md)
 - [Frameworks](frontend/frameworks.md)
+
+## Licencia
+
+Proyecto con fines educativos.
